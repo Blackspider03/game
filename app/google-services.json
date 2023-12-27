@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "288815785990",
+    "firebase_url": "https://winmenia69-default-rtdb.firebaseio.com",
+    "project_id": "winmenia69",
+    "storage_bucket": "winmenia69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288815785990:android:da251caf74efe34dfc7b87",
+        "android_client_info": {
+          "package_name": "com.example.a69admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4Rx79lI4MIZNlagRbBAZQpv9eFoeaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288815785990:android:87fe14604a97e62efc7b87",
+        "android_client_info": {
+          "package_name": "com.example.otpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288815785990-ino0mco037jgcfttti4j9bu8t5akf80r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpdemo",
+            "certificate_hash": "d094e352534698e8661b72ffc5c78c847a62fc63"
+          }
+        },
+        {
+          "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4Rx79lI4MIZNlagRbBAZQpv9eFoeaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288815785990:android:5de025229e8e18f0fc7b87",
+        "android_client_info": {
+          "package_name": "com.example.winmenia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4Rx79lI4MIZNlagRbBAZQpv9eFoeaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288815785990:android:b49ce12aa5b4ea5bfc7b87",
+        "android_client_info": {
+          "package_name": "com.example.winmenia69"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4Rx79lI4MIZNlagRbBAZQpv9eFoeaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288815785990-beo6vvo70mvo7b6drnu4jfvbvqugeul1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
